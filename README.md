@@ -3,8 +3,8 @@
 
 Потурайко Назар
 
-пз 1
+Правила оформлення програмного коду на Rust за офіційним стандартом The Rust Foundation / Rust Style Guide
 
-пз 2
+Методи рефакторингу коду програмного забезпечення (Extract Method, Introduce Explaining Variable, Inline Method)
 
 --
